@@ -8,7 +8,7 @@ var face_list = require('./face_list_management');
 var connection = mysql.createConnection({
     host     : '127.0.0.1',
     user     : 'root',
-    password : 'wangzhe1998',
+    password : '',
     database : 'prof_profile'
 });
 
